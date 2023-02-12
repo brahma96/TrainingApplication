@@ -1,9 +1,0 @@
-C:\Users\ACER\source\repos\TrainingApplication.UI\TrainingApplication.ViewModels\bin\Debug\TrainingApplication.ViewModels.dll
-C:\Users\ACER\source\repos\TrainingApplication.UI\TrainingApplication.ViewModels\bin\Debug\TrainingApplication.ViewModels.pdb
-C:\Users\ACER\source\repos\TrainingApplication.UI\TrainingApplication.ViewModels\bin\Debug\TrainingApplication.Core.dll
-C:\Users\ACER\source\repos\TrainingApplication.UI\TrainingApplication.ViewModels\bin\Debug\TrainingApplication.Core.pdb
-C:\Users\ACER\source\repos\TrainingApplication.UI\TrainingApplication.ViewModels\obj\Debug\TrainingApplication.ViewModels.csproj.AssemblyReference.cache
-C:\Users\ACER\source\repos\TrainingApplication.UI\TrainingApplication.ViewModels\obj\Debug\TrainingApplication.ViewModels.csproj.CoreCompileInputs.cache
-C:\Users\ACER\source\repos\TrainingApplication.UI\TrainingApplication.ViewModels\obj\Debug\TrainingApplication.ViewModels.csproj.CopyComplete
-C:\Users\ACER\source\repos\TrainingApplication.UI\TrainingApplication.ViewModels\obj\Debug\TrainingApplication.ViewModels.dll
-C:\Users\ACER\source\repos\TrainingApplication.UI\TrainingApplication.ViewModels\obj\Debug\TrainingApplication.ViewModels.pdb

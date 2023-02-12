@@ -1,0 +1,6 @@
+C:\Users\ACER\source\repos\TrainingApplication.UI\TrainingApplication.Core\bin\Debug\TrainingApplication.Core.dll
+C:\Users\ACER\source\repos\TrainingApplication.UI\TrainingApplication.Core\bin\Debug\TrainingApplication.Core.pdb
+C:\Users\ACER\source\repos\TrainingApplication.UI\TrainingApplication.Core\obj\Debug\TrainingApplication.Core.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\TrainingApplication.UI\TrainingApplication.Core\obj\Debug\TrainingApplication.Core.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\TrainingApplication.UI\TrainingApplication.Core\obj\Debug\TrainingApplication.Core.dll
+C:\Users\ACER\source\repos\TrainingApplication.UI\TrainingApplication.Core\obj\Debug\TrainingApplication.Core.pdb
